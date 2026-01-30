@@ -2164,6 +2164,11 @@ img {
         padding: 15px 0px 15px 15px;
     }
 
+    /* Sticky navbar on scroll: balanced side margins on mobile */
+    #navsticky.sticky {
+        padding: 15px 20px;
+    }
+
     #hero h1 {
         font-size: 36px;
         line-height: 1.3;
